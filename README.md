@@ -10,7 +10,7 @@ the project is designed for fast performance and modular development.
 
 ## To run
 1.npm run dev.  
-2.Open in Browser at http://localhost:5173/ and start managing students.  
+2.Open in Browser at http://localhost:5173/.  
 
 ## Outputs
 <img src="https://github.com/user-attachments/assets/445c02a5-f431-4a58-a8bc-a0bf20d4e2c6" width="400" />
