@@ -3,13 +3,18 @@ This is a React application that manages detailed student information and more  
 the project is designed for fast performance and modular development.
 
 ## Prerequisites
-1.node
-2.npm
+1.Install Node.js & npm.  
+2.Create a Vite + React + TypeScript App: npm create vite@latest student-management --template react-ts
+  cd student-management
+  npm install  
+3.Install Bootstrap: npm install bootstrap.  
+4.Import Bootstrap in main.tsx.  
+5.Replace App.tsx with the Student Management Code.  
+6.Modern Browser – Use Chrome or Firefox.  
 
 ## To run
-1.npm install
-2.npm install bootstrap
-3.npm run dev
+1.npm run dev.  
+2.Open in Browser at http://localhost:5173/ and start managing students.  
 
 ## Outputs
 <img src="https://github.com/user-attachments/assets/445c02a5-f431-4a58-a8bc-a0bf20d4e2c6" width="400" />
