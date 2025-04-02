@@ -12,7 +12,7 @@ the project is designed for fast performance and modular development.
 3.npm run dev
 
 ## Outputs
-
+![Image](https://github.com/user-attachments/assets/445c02a5-f431-4a58-a8bc-a0bf20d4e2c6)
 
 
 
