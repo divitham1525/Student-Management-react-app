@@ -4,13 +4,9 @@ the project is designed for fast performance and modular development.
 
 ## Prerequisites
 1.Install Node.js & npm.  
-2.Create a Vite + React + TypeScript App: npm create vite@latest student-management --template react-ts
-  cd student-management
-  npm install  
-3.Install Bootstrap: npm install bootstrap.  
-4.Import Bootstrap in main.tsx.  
-5.Replace App.tsx with the Student Management Code.  
-6.Modern Browser – Use Chrome or Firefox.  
+2.Create a Vite + React + TypeScript App.  
+3.Install Bootstrap.      
+4.Modern Browser – Use Chrome or Firefox.  
 
 ## To run
 1.npm run dev.  
